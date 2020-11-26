@@ -1,0 +1,13 @@
+00:06:57.234 [TestNG-tests-2] DEBUG SeleniumAutomation.ValidateLoginErrorTest - Goibibo url is accessed
+00:06:57.785 [TestNG-tests-2] DEBUG SeleniumAutomation.ValidateLoginErrorTest - Sign in button is clicked
+00:07:04.886 [TestNG-tests-4] DEBUG SeleniumAutomation.ValidateDisplayTextTest - Goibibo url is accessed
+00:07:05.015 [TestNG-tests-4] INFO  SeleniumAutomation.ValidateDisplayTextTest - The Display Text is compared
+00:07:07.508 [TestNG-tests-3] DEBUG SeleniumAutomation.HomePageNavigationTest - Goibibo url is accessed
+00:07:08.107 [TestNG-tests-2] DEBUG SeleniumAutomation.ValidateLoginErrorTest - Mobile Number is given
+00:07:08.307 [TestNG-tests-2] DEBUG SeleniumAutomation.ValidateLoginErrorTest - Submit button is clicked
+00:07:12.042 [TestNG-tests-2] DEBUG SeleniumAutomation.ValidateLoginErrorTest - Wrong OTP is submitted
+00:07:13.192 [TestNG-tests-3] DEBUG SeleniumAutomation.HomePageNavigationTest - Departure City name is given
+00:07:13.714 [TestNG-tests-3] DEBUG SeleniumAutomation.HomePageNavigationTest - Destination City name is given
+00:07:14.782 [TestNG-tests-2] INFO  SeleniumAutomation.ValidateLoginErrorTest - OTP Error Message compared
+00:07:16.848 [TestNG-tests-3] DEBUG SeleniumAutomation.HomePageNavigationTest - Journey date is given
+00:07:19.678 [TestNG-tests-3] INFO  SeleniumAutomation.HomePageNavigationTest - Navigation to Flight Details Page is verified

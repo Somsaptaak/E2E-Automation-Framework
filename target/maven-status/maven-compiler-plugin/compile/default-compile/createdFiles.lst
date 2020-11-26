@@ -1,0 +1,5 @@
+SeleniumAutomation\App.class
+pageObjects\HomePage.class
+pageObjects\FlightDetailsPage.class
+resources\base.class
+resources\ExtentReporterNG.class

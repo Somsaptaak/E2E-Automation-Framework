@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41278" started-at="2020-11-27T00:06:39 IST" finished-at="2020-11-27T00:07:20 IST">
+    <groups>
+    </groups>
+    <test name="Validate Display Text Test" duration-ms="28935" started-at="2020-11-27T00:06:39 IST" finished-at="2020-11-27T00:07:08 IST">
+      <class name="SeleniumAutomation.ValidateDisplayTextTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:SeleniumAutomation.ValidateDisplayTextTest@2dc9b0f5]" name="initialization" is-config="true" duration-ms="25478" started-at="2020-11-27T00:06:39 IST" finished-at="2020-11-27T00:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateDisplayText()[pri:0, instance:SeleniumAutomation.ValidateDisplayTextTest@2dc9b0f5]" name="validateDisplayText" duration-ms="127" started-at="2020-11-27T00:07:04 IST" finished-at="2020-11-27T00:07:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDisplayText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumAutomation.ValidateDisplayTextTest@2dc9b0f5]" name="tearDown" is-config="true" duration-ms="3316" started-at="2020-11-27T00:07:05 IST" finished-at="2020-11-27T00:07:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumAutomation.ValidateDisplayTextTest -->
+    </test> <!-- Validate Display Text Test -->
+    <test name="Validate Home Page  Test" duration-ms="41278" started-at="2020-11-27T00:06:39 IST" finished-at="2020-11-27T00:07:20 IST">
+      <class name="SeleniumAutomation.HomePageNavigationTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:SeleniumAutomation.HomePageNavigationTest@2f666ebb]" name="initialization" is-config="true" duration-ms="9503" started-at="2020-11-27T00:06:39 IST" finished-at="2020-11-27T00:06:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:SeleniumAutomation.HomePageNavigationTest@2f666ebb]" name="basePageNavigation" duration-ms="30745" started-at="2020-11-27T00:06:48 IST" finished-at="2020-11-27T00:07:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumAutomation.HomePageNavigationTest@2f666ebb]" name="tearDown" is-config="true" duration-ms="1003" started-at="2020-11-27T00:07:19 IST" finished-at="2020-11-27T00:07:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumAutomation.HomePageNavigationTest -->
+    </test> <!-- Validate Home Page  Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="13833" started-at="2020-11-27T00:07:20 IST" finished-at="2020-11-27T00:07:34 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@39b43d60]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Validate Display Text Test" duration-ms="13833" started-at="2020-11-27T00:07:20 IST" finished-at="2020-11-27T00:07:34 IST">
+      <class name="cucumberOptions.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberOptions.TestRunner@39b43d60]" name="setUpClass" is-config="true" duration-ms="243" started-at="2020-11-27T00:07:20 IST" finished-at="2020-11-27T00:07:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@39b43d60]" name="feature" duration-ms="13482" started-at="2020-11-27T00:07:21 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-11-27T00:07:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Validate Display Text]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunner@39b43d60]" name="tearDownClass" is-config="true" duration-ms="3" started-at="2020-11-27T00:07:34 IST" finished-at="2020-11-27T00:07:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunner -->
+    </test> <!-- Validate Display Text Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
